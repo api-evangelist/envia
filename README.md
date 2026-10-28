@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Envia.com is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://envia.com/
+Envia.com provides a comprehensive shipping logistics platform for businesses in the United States, offering multi‑courier shipping, fulfillment, warehouse management, returns handling, and e‑commerce integrations. The service includes a developer portal with API documentation, SDKs, and tools for automating order processing, rate calculation, and shipment tracking, enabling merchants to streamline their shipping operations across domestic and international carriers.
+
+**Areas:** Company · Shipping · Logistics · E-commerce · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://envia.com/)
+- [Documentation](https://envia.com/en-US/developers)
+- [Getting started](https://docs.envia.com/docs/getting-started)
+- [API reference](https://envia.com/en-US/developers)
+- [Pricing](https://envia.com/en-US/pricing)
+- [Support](https://help.envia.com/)
+- [Blog](https://envia.com/en-US/blog)
+
+**APIs profiled:** 28
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/envia/](https://apis.io/providers/envia/).
